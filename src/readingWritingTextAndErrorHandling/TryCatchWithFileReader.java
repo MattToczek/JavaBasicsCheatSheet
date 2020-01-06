@@ -1,4 +1,4 @@
-package readingTextAndErrorHandling;
+package readingWritingTextAndErrorHandling;
 
 import java.io.File;
 import java.io.FileNotFoundException;

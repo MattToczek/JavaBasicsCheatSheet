@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44d4081a-3e79-4366-8135-cf3f7da0279f" name="Default Changelist" comment="" />
+    <list default="true" id="44d4081a-3e79-4366-8135-cf3f7da0279f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/FileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/FileWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/App$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingTextAndErrorHandling/RuntimeExceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingTextAndErrorHandling/TextReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingTextAndErrorHandling/TryCatchWithFileReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readingTextAndErrorHandling/RuntimeExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/RuntimeExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readingTextAndErrorHandling/TextReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/TextReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readingTextAndErrorHandling/TryCatchWithFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/TryCatchWithFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VyOM8yA70QxvckHcCbEUtQC96v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -81,26 +100,26 @@
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state x="857" y="311" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.793@0.23.1440.793" timestamp="1578235575221" />
-    <state width="673" height="203" key="GridCell.Tab.0.bottom" timestamp="1578310309724">
+    <state width="673" height="203" key="GridCell.Tab.0.bottom" timestamp="1578322006822">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state width="673" height="203" key="GridCell.Tab.0.bottom/0.23.1440.793/-359.-1057.1920.1057@0.23.1440.793" timestamp="1578304104564" />
-    <state width="673" height="203" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1578310309724" />
-    <state width="673" height="203" key="GridCell.Tab.0.center" timestamp="1578310309722">
+    <state width="673" height="203" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1578322006822" />
+    <state width="673" height="203" key="GridCell.Tab.0.center" timestamp="1578322006821">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state width="673" height="203" key="GridCell.Tab.0.center/0.23.1440.793/-359.-1057.1920.1057@0.23.1440.793" timestamp="1578304104563" />
-    <state width="673" height="203" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1578310309722" />
-    <state width="673" height="203" key="GridCell.Tab.0.left" timestamp="1578310309721">
+    <state width="673" height="203" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1578322006821" />
+    <state width="673" height="203" key="GridCell.Tab.0.left" timestamp="1578322006821">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state width="673" height="203" key="GridCell.Tab.0.left/0.23.1440.793/-359.-1057.1920.1057@0.23.1440.793" timestamp="1578304104563" />
-    <state width="673" height="203" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1578310309721" />
-    <state width="673" height="203" key="GridCell.Tab.0.right" timestamp="1578310309723">
+    <state width="673" height="203" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1578322006821" />
+    <state width="673" height="203" key="GridCell.Tab.0.right" timestamp="1578322006822">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state width="673" height="203" key="GridCell.Tab.0.right/0.23.1440.793/-359.-1057.1920.1057@0.23.1440.793" timestamp="1578304104563" />
-    <state width="673" height="203" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1578310309723" />
+    <state width="673" height="203" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1578322006822" />
     <state x="399" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1578301731865">
       <screen x="0" y="23" width="1440" height="793" />
     </state>

@@ -1,4 +1,4 @@
-package readingTextAndErrorHandling;
+package readingWritingTextAndErrorHandling;
 
 public class RuntimeExceptions {
 

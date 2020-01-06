@@ -1,7 +1,9 @@
 import mechanics.Camera;
 import mechanics.Car;
-import readingTextAndErrorHandling.TextReader;
-import readingTextAndErrorHandling.TryCatchWithFileReader;
+import readingWritingTextAndErrorHandling.FileRead;
+import readingWritingTextAndErrorHandling.FileWrite;
+import readingWritingTextAndErrorHandling.TextReader;
+import readingWritingTextAndErrorHandling.TryCatchWithFileReader;
 import world.Plant;
 import world.Tree;
 
@@ -140,6 +142,20 @@ public class App {
 
         //try/catch
         TryCatchWithFileReader tryCatch = new TryCatchWithFileReader();
+
+        FileRead read = new FileRead();
+
+//        read.read2();
+        read.read1();
+
+        // =========================
+        // ===== WRITING TEXT ======
+        // =========================
+
+        FileWrite write = new FileWrite();
+
+        //writes a new file to path specified in function
+        write.write();
 
         // =========================
         // === ABSTRACT CLASSES ====
