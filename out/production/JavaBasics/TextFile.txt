@@ -1,0 +1,31 @@
+3
+
+Hello.
+
+This is a text file.
+
+Here are some numbers:
+1
+2
+3
+4
+5
+6
+34989
+
+Here are some words:
+
+Soap
+Banana
+Dog
+Whistle
+Cloud
+
+And I guess these are some more:
+
+Clown
+Tissue
+Barb
+Skillet
+
+Thank you for reading!
