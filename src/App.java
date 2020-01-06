@@ -1,9 +1,12 @@
+import InnerClasses.Robot;
 import mechanics.Camera;
 import mechanics.Car;
 import readingWritingTextAndErrorHandling.FileRead;
 import readingWritingTextAndErrorHandling.FileWrite;
 import readingWritingTextAndErrorHandling.TextReader;
 import readingWritingTextAndErrorHandling.TryCatchWithFileReader;
+import world.Animals;
+import world.Person;
 import world.Plant;
 import world.Tree;
 
@@ -175,6 +178,50 @@ public class App {
 
         car1.start();
 
+        // Method below Main to test diff. between == and .equals() in Java
+        equalsOrNot();
+
+        // =========================
+        // ===== INNER CLASSES =====
+        // =========================
+
+        Robot robot1 = new Robot(1);
+
+        //calls both .start() and Brain.think() inner class method
+        robot1.start();
+
+        // =========================
+        // ========= ENUM ==========
+        // =========================
+
+        //enum restricts assigning to a fixed set of final values (in this case animal types)
+        //useful if you need to restrict options.
+        Animals animal = Animals.BIRD;
+
+        switch (animal) {
+            case BIRD:
+                System.out.println("It's a Bird!");
+                break;
+            case DOG:
+                System.out.println("It's a Dog!");
+                break;
+            case CAT:
+                System.out.println("It's a Cat!");
+                break;
+            case MOUSE:
+                System.out.println("It's a Mouse!");
+                break;
+
+            default:
+                throw new IllegalStateException("Unexpected value: " + animal);
+        }
+
+        System.out.println(Animals.MOUSE.getName());
+
+        //allows you to grab the object by string:
+        Animals animal2 = Animals.valueOf("DOG");
+        System.out.println(animal2.getName());
+
         // =========================
         // ==== CASTING VALUES =====
         // =========================
@@ -248,5 +295,31 @@ public class App {
             e.grow();
         }
     }
+
+    // =========================
+    // === "==" VS .equals() ===
+    // =========================
+
+    public static void equalsOrNot() {
+
+        Person personX = new Person(25, "Bob");
+        Person personY = new Person(43, "Jenny");
+        Person personZ = new Person(25, "Bob");
+        Person personW = personY;
+
+
+        //False
+        System.out.println("personX == personZ => " + (personX == personZ));
+        //True --- with override in class
+        System.out.println("personX.equals(personZ) => " + (personX.equals(personZ)));
+        //False
+        System.out.println("personX == personY => " + (personX == personY));
+        //True --- personW points at the existing personY object so is the same
+        System.out.println("personY == personW => " + (personY == personW));
+
+        //"==" can be used to compare primitive types (that are either intrinsically equal, or not).
+        //.equals() MUST be used to compare objects by attributes (this can have a manual override in class declaration.
+    }
+
 
 }
