@@ -1,4 +1,4 @@
-package readingWritingTextAndErrorHandling;
+package readingWritingAndErrorHandling;
 
 import java.io.*;
 

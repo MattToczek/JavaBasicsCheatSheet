@@ -1,10 +1,8 @@
 import InnerClasses.Robot;
 import mechanics.Camera;
 import mechanics.Car;
-import readingWritingTextAndErrorHandling.FileRead;
-import readingWritingTextAndErrorHandling.FileWrite;
-import readingWritingTextAndErrorHandling.TextReader;
-import readingWritingTextAndErrorHandling.TryCatchWithFileReader;
+import readingWritingAndErrorHandling.*;
+import recursion.Factorials;
 import world.Animals;
 import world.Person;
 import world.Plant;
@@ -31,6 +29,11 @@ public class App {
         Plant plant = new Plant();
         Tree tree = new Tree();
 
+
+        new WriteObjects();
+        new ReadObjects("people.bin");
+
+
         //works as name string is public
         System.out.println(plant.name);
 
@@ -50,6 +53,7 @@ public class App {
         //can declare plant2 as a reference to plant or tree (same parent class) - ** polymorphism **
         //Plant plant2 = plant;
         Plant plant2 = tree;
+
 
         tree.grow();
         tree.shedLeaves();
@@ -221,6 +225,13 @@ public class App {
         //allows you to grab the object by string:
         Animals animal2 = Animals.valueOf("DOG");
         System.out.println(animal2.getName());
+
+        // =========================
+        // ======= RECURSION =======
+        // =========================
+
+        //outputs factorial of number in brackets
+       new Factorials(10);
 
         // =========================
         // ==== CASTING VALUES =====

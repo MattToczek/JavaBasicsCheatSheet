@@ -1,8 +1,10 @@
 package world;
 
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Person {
+// implements an Interface - Serializable to allow writing to binary
+public class Person implements Serializable {
 
     private int age;
     private String name;
@@ -11,6 +13,11 @@ public class Person {
         this.age = age;
         this.name = name;
     }
+
+    @Override
+    public String toString() {
+        return this.getClass() + " => Name: " + this.name + " || Age: " +  this.age;
+     }
 
     //right click class and generate > equals() & hashCode() -- this produces override to compare by attributes of class
     @Override
