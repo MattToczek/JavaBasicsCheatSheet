@@ -1,11 +1,20 @@
 package readingWritingAndErrorHandling;
 import world.Person;
 import java.io.*;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 public class WriteObjects {
 
     Person matt = new Person(29, "Matt");
     Person hamad = new Person(19, "Hamad");
+
+    // initialises array of Person class
+    Person[] personArray = {matt, hamad};
+
+    // initialises ArrayList of Person class
+    ArrayList<Person> personList = new ArrayList<>(Arrays.asList(personArray));
+
     private String fileName = "people.bin";
 
     public WriteObjects() {
@@ -18,6 +27,9 @@ public class WriteObjects {
 
             os.writeObject(matt);
             os.writeObject(hamad);
+
+            os.writeObject(personArray);
+            os.writeObject(personList);
 
             //closed manually to avoid nested try catch
             os.close();

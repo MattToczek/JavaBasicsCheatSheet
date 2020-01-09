@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44d4081a-3e79-4366-8135-cf3f7da0279f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/ReadObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/WriteObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/Factorials.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/App$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/App$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/App$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingTextAndErrorHandling/FileRead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingTextAndErrorHandling/FileWrite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingTextAndErrorHandling/RuntimeExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingTextAndErrorHandling/TextReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingTextAndErrorHandling/TryCatchWithFileReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/world/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/world/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/FileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/FileRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/FileWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/FileWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/RuntimeExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/RuntimeExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/TextReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/TextReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readingWritingTextAndErrorHandling/TryCatchWithFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/TryCatchWithFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/world/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/world/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingAndErrorHandling/ReadObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingAndErrorHandling/ReadObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingAndErrorHandling/WriteObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasics/readingWritingAndErrorHandling/WriteObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/people.bin" beforeDir="false" afterPath="$PROJECT_DIR$/people.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/ReadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/ReadObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/WriteObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readingWritingAndErrorHandling/WriteObjects.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,31 +99,31 @@
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state x="857" y="311" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.793@0.23.1440.793" timestamp="1578235575221" />
-    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1578579143381">
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1578580659926">
       <screen x="-359" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578579143381" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578580659926" />
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578418320583" />
     <state width="673" height="203" key="GridCell.Tab.0.bottom/0.23.1440.793/-359.-1057.1920.1057@0.23.1440.793" timestamp="1578304104564" />
     <state width="708" height="203" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1578331968211" />
-    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1578579143379">
+    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1578580659924">
       <screen x="-359" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.center/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578579143379" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578580659924" />
     <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578418320582" />
     <state width="673" height="203" key="GridCell.Tab.0.center/0.23.1440.793/-359.-1057.1920.1057@0.23.1440.793" timestamp="1578304104563" />
     <state width="708" height="203" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1578331968210" />
-    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1578579143377">
+    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1578580659923">
       <screen x="-359" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.left/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578579143377" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578580659923" />
     <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578418320581" />
     <state width="673" height="203" key="GridCell.Tab.0.left/0.23.1440.793/-359.-1057.1920.1057@0.23.1440.793" timestamp="1578304104563" />
     <state width="708" height="203" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1578331968210" />
-    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1578579143380">
+    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1578580659925">
       <screen x="-359" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.right/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578579143380" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578580659925" />
     <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578418320583" />
     <state width="673" height="203" key="GridCell.Tab.0.right/0.23.1440.793/-359.-1057.1920.1057@0.23.1440.793" timestamp="1578304104563" />
     <state width="708" height="203" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1578331968211" />
@@ -154,9 +138,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="114" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1578417576295" />
-    <state x="747" y="140" width="670" height="676" key="search.everywhere.popup" timestamp="1578235007934">
-      <screen x="0" y="23" width="1440" height="793" />
+    <state x="637" y="-921" width="894" height="921" key="search.everywhere.popup" timestamp="1578580481140">
+      <screen x="-359" y="-1080" width="1920" height="1080" />
     </state>
+    <state x="637" y="-921" width="894" height="921" key="search.everywhere.popup/0.0.1440.900/-359.-1080.1920.1080@-359.-1080.1920.1080" timestamp="1578580481140" />
     <state x="747" y="140" width="670" height="676" key="search.everywhere.popup/0.23.1440.793@0.23.1440.793" timestamp="1578235007934" />
   </component>
 </project>
